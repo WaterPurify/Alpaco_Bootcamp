@@ -2,4 +2,4 @@
 
 * Hugging face token
 
-1.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
+1.Hugging face token: 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
