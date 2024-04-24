@@ -1,4 +1,4 @@
 # WhisperAI finetuning
 
 * Hugging face token
--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
+1.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
