@@ -4,7 +4,6 @@
 * 다른 노인 음성 데이터셋으로 적용한 코드 (정호석)
 
 ## Whisper AI fine-tuning하는 코드 : WhisperAI_fine_tune_version6
-
 ## Whisper AI fine-tuning의 경량화 버전 : fasterWhisper_w_PEFT_finetune (quantization과 parameter efficient fine-tuning 기법)
 
 
