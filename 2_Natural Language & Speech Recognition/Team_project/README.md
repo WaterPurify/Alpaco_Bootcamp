@@ -1,6 +1,6 @@
 # WhisperAI 2022 모델 적용
 
-## Common Voice 13으로 Whisper AI 와 Fast Whisper AI fine-tuning 하는 코드 및 설명
+## Whisper AI 와 Fast Whisper AI fine-tuning 하는 코드 및 설명
 
 
 1. Code
