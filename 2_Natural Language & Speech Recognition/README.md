@@ -1,6 +1,2 @@
+# Group & 개인 Project
 
-# Group Project
-
-
-
-# 개인 Project
