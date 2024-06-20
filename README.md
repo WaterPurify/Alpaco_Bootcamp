@@ -5,10 +5,10 @@
 ## 프로젝트
 ### 1. TextMining
    #### &nbsp;&nbsp;&nbsp;주제: 계절별 호텔 리뷰 패턴 분석
-   &nbsp;&nbsp;&nbsp; 1.데이터 수집
-   <br />&nbsp;&nbsp;&nbsp; 2.데이터 전처리
-   <br />&nbsp;&nbsp;&nbsp; 3.EDA
-   <br />&nbsp;&nbsp;&nbsp; 4.모델링
+   &nbsp;&nbsp;&nbsp; 1. 데이터 수집
+   <br />&nbsp;&nbsp;&nbsp; 2. 데이터 전처리
+   <br />&nbsp;&nbsp;&nbsp; 3. EDA
+   <br />&nbsp;&nbsp;&nbsp; 4. 모델링
 
 ### 2. Natural Language & Speech Recognition
    #### &nbsp;&nbsp;&nbsp;주제: 취업을 위한 음성인식 AI 서비스
