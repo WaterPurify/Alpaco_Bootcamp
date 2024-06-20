@@ -6,7 +6,7 @@
 ### 1. TextMining
    #### &nbsp;&nbsp;&nbsp;주제: 계절별 호텔 리뷰 패턴 분석
    &nbsp;&nbsp;&nbsp; 1. 데이터 수집
-      a.Selenium을 사용하여 크롤링 진행
+      <br /> a.Selenium을 사용하여 크롤링 진행
 2.데이터 전처리
 a.영어와 숫자만 추출
 b.NLTK 토큰화
