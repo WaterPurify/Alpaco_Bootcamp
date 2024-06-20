@@ -6,5 +6,5 @@
 1. TextMining
 2. Natural Language & Speech Recognition
 3. Computer Vision Classification
-4. Computer Vision Object Detection
+4. Computer Vision Object Detection & Semantic Segmentation
 5. Final Project
