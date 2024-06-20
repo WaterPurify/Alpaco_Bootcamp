@@ -5,7 +5,11 @@
 ## 프로젝트
 ### 1. TextMining
    #### 주제: 계절별 호텔 리뷰 패턴 분석
-3. Natural Language & Speech Recognition
-4. Computer Vision Classification
-5. Computer Vision Object Detection & Semantic Segmentation
-6. Final Project
+### 2. Natural Language & Speech Recognition
+   #### 주제: 취업을 위한 음성인식 AI 서비스
+### 3. Computer Vision Classification
+   #### 주제: 역대 화가 50인 자동 분류를 통한 교육 모델
+### 4. Computer Vision Object Detection & Semantic Segmentation
+   #### 주제: 벼 이상 검출 AI 시스템
+   
+### 5. Final Project
