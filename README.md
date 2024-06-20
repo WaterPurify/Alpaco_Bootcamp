@@ -25,9 +25,9 @@
      
 ### 4. Computer Vision Object Detection & Semantic Segmentation
    #### &nbsp;&nbsp;&nbsp;주제: 벼 이상 검출 AI 시스템
-   &nbsp;&nbsp;&nbsp; 1.데이터 분석
-   <br />&nbsp;&nbsp;&nbsp; 2.데이터 전처리
-   <br />&nbsp;&nbsp;&nbsp; 3.Segformer 학습
-   <br />&nbsp;&nbsp;&nbsp; 4.결과 분석 및 Limitation
+   &nbsp;&nbsp;&nbsp; 1. 데이터 분석
+   <br />&nbsp;&nbsp;&nbsp; 2. 데이터 전처리
+   <br />&nbsp;&nbsp;&nbsp; 3. Segformer 학습
+   <br />&nbsp;&nbsp;&nbsp; 4. 결과 분석 및 Limitation
    
 ### 5. Final Project
