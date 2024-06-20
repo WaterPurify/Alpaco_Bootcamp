@@ -6,18 +6,9 @@
 ### 1. TextMining
    #### &nbsp;&nbsp;&nbsp;주제: 계절별 호텔 리뷰 패턴 분석
    &nbsp;&nbsp;&nbsp; 1. 데이터 수집
-      <br /> a.Selenium을 사용하여 크롤링 진행
-2.데이터 전처리
-a.영어와 숫자만 추출
-b.NLTK 토큰화
-c.Gensim 불용어 적용
-3.EDA
-a.계절별 wordcloud
-b.호텔 리뷰 트렌드 분석
-4. 모델링
-a. K-mean, GMM, DBSCAN 클러스터링
-b. 분류 모델을 통해서 사용자 적합 리뷰 추천
-c. 긍부정 분석 -> 리뷰 평점에 준 요인들 분석
+   <br />&nbsp;&nbsp;&nbsp; 2.데이터 전처리
+   <br />&nbsp;&nbsp;&nbsp;3.EDA
+   <br />&nbsp;&nbsp;&nbsp;4.모델링
 
 ### 2. Natural Language & Speech Recognition
    #### &nbsp;&nbsp;&nbsp;주제: 취업을 위한 음성인식 AI 서비스
