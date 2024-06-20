@@ -4,7 +4,7 @@
 
 ## 프로젝트
 ### 1. TextMining
-   #### &nbsp;주제: 계절별 호텔 리뷰 패턴 분석
+   #### &nbsp;&nbsp;&nbsp;주제: 계절별 호텔 리뷰 패턴 분석
 ### 2. Natural Language & Speech Recognition
    #### &nbsp주제: 취업을 위한 음성인식 AI 서비스
 ### 3. Computer Vision Classification
