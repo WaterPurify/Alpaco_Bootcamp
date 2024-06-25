@@ -1,4 +1,4 @@
-# Alpaco_Bootcamp ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Eunseo%20Github!&color=D3FF00&fontColor=FFFFFF&animation=blinking)
+# Alpaco_Bootcamp ![header](https://capsule-render.vercel.app/api?type=waving&text=Alpaco%20Bootcamp!&color=D3FF00&fontColor=FFFFFF&animation=blinking)
 
 알파코 부트캠프 개인 프로젝트 및 팀 프로젝트
 
