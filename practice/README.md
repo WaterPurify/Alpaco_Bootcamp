@@ -15,7 +15,7 @@
 ## Matrix 결과 output
 
 <p align="center">
-  <img src="[이미지경로](https://github.com/WaterPurify/Alpaco_Bootcamp/assets/86897220/9ee86c1f-e7fd-40b1-a81b-117de3296a0f)">
+  <img src="(https://github.com/WaterPurify/Alpaco_Bootcamp/assets/86897220/9ee86c1f-e7fd-40b1-a81b-117de3296a0f)">
 </p>
 
 
