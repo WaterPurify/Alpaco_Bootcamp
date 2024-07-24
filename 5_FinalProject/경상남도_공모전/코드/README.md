@@ -6,6 +6,6 @@
 # MCLP
  - MCLP_example.ipynb
    - MCLP 예제 코드
-   - 
+     
 # LoRA-Stable Diffusion
  - 참고 코드: https://github.com/cloneofsimo/lora
