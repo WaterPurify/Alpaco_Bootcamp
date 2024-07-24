@@ -24,4 +24,5 @@
 
 ![숙박후보지2](https://github.com/user-attachments/assets/21ebdc04-0ff0-47c0-87af-c621b8cc9eac)
 
+![image](https://github.com/user-attachments/assets/c8056186-090d-4497-bd43-33449d9b604f)
 
