@@ -13,3 +13,15 @@
      
 # LoRA-Stable Diffusion
  - 참고 코드: https://github.com/cloneofsimo/lora
+   
+## 카페 후보지
+
+   ![카페후보지1](https://github.com/user-attachments/assets/ec73b6ff-abba-4ed8-a03f-1a66540b775b)
+   ![카페후보지2](https://github.com/user-attachments/assets/6ead664d-a281-4434-8d07-d2f861870e2a)
+## 숙박시설 후보지
+
+![숙박후보지1](https://github.com/user-attachments/assets/9c3a6db3-c854-41c1-a972-9053e4691aa6)
+
+![숙박후보지2](https://github.com/user-attachments/assets/21ebdc04-0ff0-47c0-87af-c621b8cc9eac)
+
+
