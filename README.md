@@ -43,7 +43,7 @@
     <td></td>
  </tr>
  <tr>
-    <td><img src ="https://github.com/user-attachments/assets/6c56056f-4c25-46a8-8813-d7791e4392ac" width="200" height="400"/>
+    <td><img src ="https://github.com/user-attachments/assets/6c56056f-4c25-46a8-8813-d7791e4392ac" width="300" height="500"/>
     </td>
     <td><img src ="https://github.com/user-attachments/assets/2dacbfeb-6a6e-4c40-ad0f-4de428d8855d"  width="300" height="500"/></td>
     <td>Lorem ipsum ...</td>
