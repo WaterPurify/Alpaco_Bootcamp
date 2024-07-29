@@ -30,3 +30,6 @@
    <br />&nbsp;&nbsp;&nbsp; 4. 결과 분석 및 Limitation
    
 ### 5. Final Project
+   #### &nbsp;&nbsp;&nbsp; 1. 경상남돋 빅데이터 분석 공모전
+   #### <br />&nbsp;&nbsp;&nbsp; 2. 제주도 인공지능 활용 공모전
+   #### <br />&nbsp;&nbsp;&nbsp; 3. 자율주행 공모전
