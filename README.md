@@ -44,8 +44,14 @@
     <td><b style="font-size:30px">2. 제주도 인공지능 활용 공모전</b></td>
     <td><b style="font-size:30px">3. 자율주행 공모전</b></td>
  </tr>
+    <tr>
+    <td>주제: 빈집활용을 위한 관광지 최적 입지 분석
+    </td>
+    <td></td>
+    <td></td>
+ </tr>
  <tr>
-    <td>* 주제: 빈집활용을 위한 관광지 최적 입지 분석<img src ="https://github.com/user-attachments/assets/6c56056f-4c25-46a8-8813-d7791e4392ac" width="200" height="400"/>
+    <td><img src ="https://github.com/user-attachments/assets/6c56056f-4c25-46a8-8813-d7791e4392ac" width="200" height="400"/>
     </td>
     <td><img src ="https://github.com/user-attachments/assets/2dacbfeb-6a6e-4c40-ad0f-4de428d8855d"  width="200" height="400"/></td>
     <td>Lorem ipsum ...</td>
