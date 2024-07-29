@@ -31,9 +31,9 @@
    
 ### 5. Final Project
    #### &nbsp;&nbsp;&nbsp; 1. 경상남도 빅데이터 분석 공모전
-   ![image](https://github.com/user-attachments/assets/6c56056f-4c25-46a8-8813-d7791e4392ac)
+   ![image](https://github.com/user-attachments/assets/6c56056f-4c25-46a8-8813-d7791e4392ac){: width="100%" height="100%"}
    <br />&nbsp;&nbsp;&nbsp; * 주제: 빈집활용을 위한 관광지 최적 입지 분석
    #### &nbsp;&nbsp;&nbsp; 2. 제주도 인공지능 활용 공모전
-   ![image](https://github.com/user-attachments/assets/2dacbfeb-6a6e-4c40-ad0f-4de428d8855d)
+   ![image](https://github.com/user-attachments/assets/2dacbfeb-6a6e-4c40-ad0f-4de428d8855d){: width="30%" height="30%"}
    <br />&nbsp;&nbsp;&nbsp; * 주제:
    #### <br />&nbsp;&nbsp;&nbsp; 3. 자율주행 공모전
