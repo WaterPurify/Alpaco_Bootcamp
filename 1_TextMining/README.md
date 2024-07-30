@@ -52,6 +52,9 @@
     * 성능이 GMM clustering이 가장 좋음
       * BIC 와 AIC 기반으로 clustering 결과 -> 3이 최적의 clustering 종류
         ![image](https://github.com/user-attachments/assets/dbf44010-6821-470c-8383-e84eff22a3b9)
+      * 3일 경우 분포 시각화
+        ![image](https://github.com/user-attachments/assets/ad36ed0c-1a62-4ff7-855b-4e7aa46cec0d)
+        ![image](https://github.com/user-attachments/assets/10dafb7a-c65f-4e53-bb25-ab5e36fbdc61)
 
 # Mini Project
 
