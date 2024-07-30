@@ -29,7 +29,7 @@
 
 * 주요 모델 설명
   * ResNet (CNN의 대표)
-    ![image](https://github.com/user-attachments/assets/8965f03c-45c1-417f-af7a-cc8161825e91)
+    <img src="https://github.com/user-attachments/assets/8965f03c-45c1-417f-af7a-cc8161825e91" width =400px height=300px>
 
     
   * Vision Transformer (Transformer의 대표)
