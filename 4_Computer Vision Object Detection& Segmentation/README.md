@@ -4,7 +4,7 @@
 ## 주제: 벼 이상 검출 AI 시스템
 
 ### 서비스 Flow
-![image](https://github.com/user-attachments/assets/612bd50b-5eeb-4d1f-9996-f91e32aebd8e)
+<img src="https://github.com/user-attachments/assets/612bd50b-5eeb-4d1f-9996-f91e32aebd8e" height  =400px width =300 px>
 
 
 ### 데이터셋
