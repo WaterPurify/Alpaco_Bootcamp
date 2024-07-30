@@ -50,5 +50,13 @@
 
     ![image](https://github.com/user-attachments/assets/c412faad-7097-41f9-91e2-3eddd15feb3c)
 
+   * Result
+    * 정밀 농업 데이터 학습
+
+     ![image](https://github.com/user-attachments/assets/456fae77-a9fc-4e8c-bb47-fa2b9a9205a5)
+
+    * 정밀 농업 + 저조도 + 악천후
+
+    ![image](https://github.com/user-attachments/assets/9095dc2d-bf93-46b3-bca7-15cde8721ba7)
 
 
