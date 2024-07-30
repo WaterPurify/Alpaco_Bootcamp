@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/6627c13c-fb8d-4c12-becb-2d6c16d8f369)
 # Group Project
 
 ## 주제: 계절별 호텔 리뷰 패턴 분석
@@ -34,6 +34,16 @@
      ![image](https://github.com/user-attachments/assets/60dca76c-c711-4aa6-a479-484ea8a319ee)
 
 
+   * 정규성 검정: 샤피로-월크 검정을 통해 정규성 검정
+    * 표본의 크기가 2000이하이기 때문에 샤피로-월크 검정을 실시
+     * 모든 변수가 정규성을 만족하지 않음 -> 비모수 검정 실시하기로 판단
+   
+   * Spearman 방식
+
+     ![image](https://github.com/user-attachments/assets/2392396b-a9b7-41d8-b0b4-ab5aead62e3e)
+
+    * 숙박 일수와 리뷰길이은 양의 상과관계
+    * 리뷰 평점과 다른 컬럼은 뚜렷한 상관관계 X
 # Mini Project
 
 * 개인 프로젝트
