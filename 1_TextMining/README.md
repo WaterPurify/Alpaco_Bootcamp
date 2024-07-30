@@ -57,6 +57,11 @@
         
       * 리뷰수수는 label1의 숫자가 가장 많고 평균적으로 label2의 평점이 높았지만 차이 X
         ![image](https://github.com/user-attachments/assets/10dafb7a-c65f-4e53-bb25-ab5e36fbdc61)
+  * 클러스터링 결과
+    * 호텔 주변 Outdoor활동이나 호텔 내에 있는 gym에 관심이 많은 사람에게 적합 -> Label 0 (자주 나오는 단어들 하위 80%)
+    ![image](https://github.com/user-attachments/assets/7e608b12-6491-4def-adb0-57d161f8a73c)
+
+    *  
 
 # Mini Project
 
