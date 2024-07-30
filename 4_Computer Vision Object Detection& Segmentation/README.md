@@ -7,12 +7,17 @@
 ![image](https://github.com/user-attachments/assets/612bd50b-5eeb-4d1f-9996-f91e32aebd8e)
 
 
+* 데이터셋
+  * 농업 정밀 데이터
+ 
+    ![image](https://github.com/user-attachments/assets/7a1a8908-6dc8-48ef-b919-ce9b70c7d4df)
+
+  * 저조도 환경 데이터
+ 
+  ![image](https://github.com/user-attachments/assets/c884dc04-819d-4055-afd8-e369c5af0a29)
+
+  * 벼 생식 이상
+    ![image](https://github.com/user-attachments/assets/dd219014-c73a-41c0-a30c-7f50013730d0)
 
 
-
-
-
-* 데이터 전처리
-* 모델 학습
-* Test 및 시연
   
