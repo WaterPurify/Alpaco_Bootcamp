@@ -26,7 +26,16 @@
   ![image](https://github.com/user-attachments/assets/2c5ec3d7-0f41-4f03-b19c-2e56feefe201)
   * Data imbalance를 해소하기 위한 방안 => 미니 배치에 class를 균형적으로 load
   * 적은 class에 더 큰 가중치를 부여하여 weight 업데이트
+
+* 주요 모델 설명
+  * ResNet (CNN의 대표)
+    ![image](https://github.com/user-attachments/assets/8965f03c-45c1-417f-af7a-cc8161825e91)
+
+    
+  * Vision Transformer (Transformer의 대표)
   
+  ![image](https://github.com/user-attachments/assets/14af79cd-5adc-4838-98d2-c723c067a42c)
+
  
 
 
