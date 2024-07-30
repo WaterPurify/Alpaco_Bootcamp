@@ -51,11 +51,11 @@
     ![image](https://github.com/user-attachments/assets/c412faad-7097-41f9-91e2-3eddd15feb3c)
 
    * Result
-    * 정밀 농업 데이터 학습
+     1. 정밀 농업 데이터 학습
 
      ![image](https://github.com/user-attachments/assets/456fae77-a9fc-4e8c-bb47-fa2b9a9205a5)
 
-    * 정밀 농업 + 저조도 + 악천후
+     2. 정밀 농업 + 저조도 + 악천후
      
 ![image](https://github.com/user-attachments/assets/eb8e1f41-693f-445c-9eae-3a5350ede4a9)
 
