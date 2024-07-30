@@ -15,6 +15,14 @@
 
 * 데이터 증강
   * Trivial Augmentation Wide 방식
-    ![image](https://github.com/user-attachments/assets/186aae33-929b-4042-9a07-57e13b6da1f0)
+  * Custom Data Augmentation 적용
+    1. Gaussian Blur
+    2. Random Perpective
+    3. Random Horizontal Flip
+    4. Random Rotation
+    5. Color Jitter
+* 데이터 불균형
+  ![image](https://github.com/user-attachments/assets/2c5ec3d7-0f41-4f03-b19c-2e56feefe201)
+
 
 
