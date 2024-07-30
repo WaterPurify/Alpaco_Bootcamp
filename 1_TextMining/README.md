@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6627c13c-fb8d-4c12-becb-2d6c16d8f369)
+
 # Group Project
 
 ## 주제: 계절별 호텔 리뷰 패턴 분석
