@@ -15,8 +15,10 @@
    <img src ="https://github.com/user-attachments/assets/e4049484-b818-4536-a818-df43fa681c27" height =400px width = 600 px>
 
   * 저조도 환경 데이터
+
+
  
-  <img src="https://github.com/user-attachments/assets/c884dc04-819d-4055-afd8-e369c5af0a29" height =400px width=600 px>
+  <img src="https://github.com/user-attachments/assets/79c6d26c-9421-498a-b512-a4ec71c34627" height =400px width=600 px>
 
   * 벼 생식 이상
     ![image](https://github.com/user-attachments/assets/dd219014-c73a-41c0-a30c-7f50013730d0)
