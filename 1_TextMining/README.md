@@ -54,6 +54,8 @@
         ![image](https://github.com/user-attachments/assets/dbf44010-6821-470c-8383-e84eff22a3b9)
       * 3일 경우 분포 시각화
         ![image](https://github.com/user-attachments/assets/ad36ed0c-1a62-4ff7-855b-4e7aa46cec0d)
+        
+      * 리뷰수수는 label1의 숫자가 가장 많고 평균적으로 label2의 평점이 높았지만 차이 X
         ![image](https://github.com/user-attachments/assets/10dafb7a-c65f-4e53-bb25-ab5e36fbdc61)
 
 # Mini Project
