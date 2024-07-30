@@ -23,7 +23,7 @@
     5. Color Jitter
 * 데이터 불균형
   * 학습 데이터 분포
-< img src="https://github.com/user-attachments/assets/2c5ec3d7-0f41-4f03-b19c-2e56feefe201" height =300px width= 400px>
+  ![image](https://github.com/user-attachments/assets/2c5ec3d7-0f41-4f03-b19c-2e56feefe201)
   * Data imbalance를 해소하기 위한 방안 => 미니 배치에 class를 균형적으로 load
   * 적은 class에 더 큰 가중치를 부여하여 weight 업데이트
 
