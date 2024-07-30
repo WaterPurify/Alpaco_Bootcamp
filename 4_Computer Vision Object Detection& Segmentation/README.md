@@ -43,5 +43,12 @@
      2. MLP로만 이루어진 MLP decoder 
  <img src="https://github.com/user-attachments/assets/e73de531-14e1-4e4b-b4d5-064cda8f8bc6" height =400px width=600 px>
 
+### 6. 결과
+  * Mean IOU & Validation Loss
+
+    ![image](https://github.com/user-attachments/assets/df30af0e-7601-464f-b2a1-bfafb3afc07f)
+
+    ![image](https://github.com/user-attachments/assets/c412faad-7097-41f9-91e2-3eddd15feb3c)
+
 
 
