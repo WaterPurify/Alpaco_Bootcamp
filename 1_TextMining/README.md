@@ -45,7 +45,9 @@
       
       * 숙박 일수와 리뷰길이은 양의 상관관계
       * 리뷰 평점과 다른 컬럼은 뚜렷한 상관관계 X
+  
   ### 모델링
+     
      * K-Means clustering, GMM clustering, DBSCAN
       * 성능이 GMM clustering이 가장 좋음
         * BIC 와 AIC 기반으로 clustering 결과 -> 3이 최적의 clustering 종류
