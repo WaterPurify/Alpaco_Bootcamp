@@ -15,8 +15,9 @@
   * 데이터 수집
    * 아고다 사이트에서 9 곳의 호텔 리뷰 1900개의 리뷰 크롤링
      ![image](https://github.com/user-attachments/assets/fdc9df8e-c39d-4068-867d-9a1373ee715b)
- 
 
+
+     ![image](https://github.com/user-attachments/assets/1d4fa610-6df4-4fa4-ab93-08bde96f3e48)
 
 # Mini Project
 
