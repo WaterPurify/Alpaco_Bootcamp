@@ -26,11 +26,12 @@
 
 ### 3. Data Augmentation
   * Albumentation 적용
-    ![image](https://github.com/user-attachments/assets/c3ff8fa5-e1b4-44d0-b4bf-3669b4253db2)
+    <img src="https://github.com/user-attachments/assets/c3ff8fa5-e1b4-44d0-b4bf-3669b4253db2" height =400px width=600 px>
+    
 
 ### 4. 이미지 전처리
   * Green,NIR,RedEdge로 merge한 데이터 적용
-    ![image](https://github.com/user-attachments/assets/5650ee39-a875-4655-be12-bae753b9ed46)
+     <img src="https://github.com/user-attachments/assets/5650ee39-a875-4655-be12-bae753b9ed46" height =400px width=600 px>
 
 ### 5. 모델 설명
   * Segformer 설명
