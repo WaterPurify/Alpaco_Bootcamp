@@ -9,8 +9,10 @@
 
 ### 데이터셋
   * 농업 정밀 데이터
+
+
  
-   <img src ="https://github.com/user-attachments/assets/7a1a8908-6dc8-48ef-b919-ce9b70c7d4df" height =400px width = 600 px>
+   <img src ="https://github.com/user-attachments/assets/e4049484-b818-4536-a818-df43fa681c27" height =400px width = 600 px>
 
   * 저조도 환경 데이터
  
