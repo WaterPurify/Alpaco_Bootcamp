@@ -42,8 +42,9 @@
 
      ![image](https://github.com/user-attachments/assets/2392396b-a9b7-41d8-b0b4-ab5aead62e3e)
 
-    * 숙박 일수와 리뷰길이은 양의 상과관계
-    * 리뷰 평점과 다른 컬럼은 뚜렷한 상관관계 X
+      
+      * 숙박 일수와 리뷰길이은 양의 상관관계
+      * 리뷰 평점과 다른 컬럼은 뚜렷한 상관관계 X
 # Mini Project
 
 * 개인 프로젝트
