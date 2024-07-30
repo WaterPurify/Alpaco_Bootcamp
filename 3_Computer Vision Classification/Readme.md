@@ -10,7 +10,7 @@
   3. Vision Transformer (트랜스포머 기반 모델 적용)
  
 * 데이터 소개
-  * 이름: Best Artworks of All Time 
+  * 이름:  Best Artworks of All Time (역대 가장 영향력 있는 50명의 화가들의 작품)
   ![image](https://github.com/user-attachments/assets/4b8e3fb9-b767-46a8-8a1c-b0c204f420ea)
 
 
