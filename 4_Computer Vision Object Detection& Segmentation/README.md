@@ -24,5 +24,8 @@
     
     <img src="https://github.com/user-attachments/assets/698db541-3b83-4ce4-9ceb-dca1e9350158" height =400px width=600 px>
 
+### 3. Data Augmentation
+  * Albumentation 적용
+    ![image](https://github.com/user-attachments/assets/c3ff8fa5-e1b4-44d0-b4bf-3669b4253db2)
 
   
