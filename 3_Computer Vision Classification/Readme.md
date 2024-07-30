@@ -13,5 +13,8 @@
   * 이름:  Best Artworks of All Time (역대 가장 영향력 있는 50명의 화가들의 작품)
   ![image](https://github.com/user-attachments/assets/4b8e3fb9-b767-46a8-8a1c-b0c204f420ea)
 
+* 데이터 증강
+  * Trivial Augmentation Wide 방식
+    ![image](https://github.com/user-attachments/assets/186aae33-929b-4042-9a07-57e13b6da1f0)
 
 
