@@ -18,7 +18,7 @@
 
 
  
-  <img src="https://github.com/user-attachments/assets/79c6d26c-9421-498a-b512-a4ec71c34627" height =400px width=600 px>
+  <img src="https://github.com/user-attachments/assets/79c6d26c-9421-498a-b512-a4ec71c34627" height =400px width=1000 px>
 
   * 벼 생식 이상
     
@@ -26,6 +26,7 @@
 
 ### 3. Data Augmentation
   * Albumentation 적용
+    
     <img src="https://github.com/user-attachments/assets/c3ff8fa5-e1b4-44d0-b4bf-3669b4253db2" height =400px width=600 px>
     
 
