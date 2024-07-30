@@ -9,4 +9,6 @@
   2. Class Weighted ( 클래스 가중치 적용)
   3. Vision Transformer (트랜스포머 기반 모델 적용)
  
-* 
+* 데이터 소개
+  ![Uploading image.png…]()
+
