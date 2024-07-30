@@ -57,6 +57,6 @@
 
     * 정밀 농업 + 저조도 + 악천후
      
-     ![image](https://github.com/user-attachments/assets/9095dc2d-bf93-46b3-bca7-15cde8721ba7)
+![image](https://github.com/user-attachments/assets/eb8e1f41-693f-445c-9eae-3a5350ede4a9)
 
 
