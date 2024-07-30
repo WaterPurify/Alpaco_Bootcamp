@@ -61,7 +61,15 @@
     * 호텔 주변 Outdoor활동이나 호텔 내에 있는 gym에 관심이 많은 사람에게 적합 -> Label 0 (자주 나오는 단어들 하위 80%)
     ![image](https://github.com/user-attachments/assets/7e608b12-6491-4def-adb0-57d161f8a73c)
 
-    *  
+    * 자쿠지와 같은 욕조나 스파에 대한 리뷰가 궁금한 사람에게 적합 -> Label 1 (자주 나오는 단어들 하위 80%)
+
+    ![image](https://github.com/user-attachments/assets/a85c352b-0f60-4427-bce5-faf9911deb44)
+
+    * 가족 구성원들끼리 가는 여행을 준비 중인 사람이나 바다 주변 부산 호텔을 찾아보는 사람에게 적합-> Label 1 (자주 나오는 단어들 하위 80%)
+
+    ![image](https://github.com/user-attachments/assets/65957b99-c7b3-42ae-b176-d5c30c8a0714)
+
+
 
 # Mini Project
 
