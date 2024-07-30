@@ -30,5 +30,14 @@
 
 ### 4. 이미지 전처리
   * Green,NIR,RedEdge로 merge한 데이터 적용
-    ![Uploading image.png…]()
+    ![image](https://github.com/user-attachments/assets/5650ee39-a875-4655-be12-bae753b9ed46)
+
+### 5. 모델 설명
+  * Segformer 설명
+   * 간단하고 효율적이고 간편한 모델
+     1. Multi-scale feature
+     2. MLP로만 이루어진 MLP decoder 
+    ![image](https://github.com/user-attachments/assets/e73de531-14e1-4e4b-b4d5-064cda8f8bc6)
+
+
 
