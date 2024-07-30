@@ -19,6 +19,15 @@
 
      ![image](https://github.com/user-attachments/assets/1d4fa610-6df4-4fa4-ab93-08bde96f3e48)
 
+   * 크롤링 과정에서의 문제로 중복된 리뷰가 다수 존재-> 최대한 다양한 호텔을 크롤링,시간이 많이 소요
+ 
+  * 리뷰 토큰화
+   * 영어 추출, NLTK 토큰화, Gensim 불용어
+  * EDA
+   * 호텔 리뷰 트렌드 분석 => 2023년도 부터 아고다 사용 증가=> 리뷰수 증가, 평균 리뷰 점수 감소
+     ![image](https://github.com/user-attachments/assets/46d6393c-903e-4bc5-b6a8-388a4f79bfd4)
+
+
 # Mini Project
 
 * 개인 프로젝트
