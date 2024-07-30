@@ -36,6 +36,7 @@
   * Vision Transformer (Transformer의 대표)
   
   ![image](https://github.com/user-attachments/assets/14af79cd-5adc-4838-98d2-c723c067a42c)
+   <img src="https://github.com/user-attachments/assets/14af79cd-5adc-4838-98d2-c723c067a42c" width =500px height=500px>
 
 * 결과
   ![image](https://github.com/user-attachments/assets/5cabfa4d-0c24-4206-b367-bb15fb29a5d6)
