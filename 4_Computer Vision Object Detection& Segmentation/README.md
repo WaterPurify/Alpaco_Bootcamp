@@ -57,6 +57,16 @@
 
      2. 정밀 농업 + 저조도 + 악천후
      
-![image](https://github.com/user-attachments/assets/eb8e1f41-693f-445c-9eae-3a5350ede4a9)
+    ![image](https://github.com/user-attachments/assets/eb8e1f41-693f-445c-9eae-3a5350ede4a9)
+### 7. 결론
+  * Segformer를 이용한 벼 이상 검출 segmentation 시스템 개발
+   * 드론을 통해 벼 이상 영역 검출
+   * 트랙털르 통해 자율주행 및 수확
+### 8. 한계점
+  * 모델 복잡도
+   * 실제 자율주행에 적용하기 위해서 inference 속도 개선 필요
+  * Real-world 적용 한계점
+   * Domain range가 다르기 때문에 원하는 segmentation불가
+     ![image](https://github.com/user-attachments/assets/be540b9e-c138-4bf3-8b2e-630803b45595)
 
 
