@@ -27,6 +27,12 @@
    * 호텔 리뷰 트렌드 분석 => 2023년도 부터 아고다 사용 증가=> 리뷰수 증가, 평균 리뷰 점수 감소
      ![image](https://github.com/user-attachments/assets/46d6393c-903e-4bc5-b6a8-388a4f79bfd4)
 
+   * 리뷰 점수 분포 & 리뷰 길이 분포
+     ![image](https://github.com/user-attachments/assets/737d9f91-95f1-4f24-a5e3-07f87d061e60)
+
+   * 여행 유형 빈도 & 리뷰자 국적 Top 20
+     ![image](https://github.com/user-attachments/assets/60dca76c-c711-4aa6-a479-484ea8a319ee)
+
 
 # Mini Project
 
