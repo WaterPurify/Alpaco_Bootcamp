@@ -28,4 +28,7 @@
   * Albumentation 적용
     ![image](https://github.com/user-attachments/assets/c3ff8fa5-e1b4-44d0-b4bf-3669b4253db2)
 
-  
+### 4. 이미지 전처리
+  * Green,NIR,RedEdge로 merge한 데이터 적용
+    ![Uploading image.png…]()
+
