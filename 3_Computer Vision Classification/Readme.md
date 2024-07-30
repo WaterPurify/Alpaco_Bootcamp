@@ -10,6 +10,7 @@
   3. Vision Transformer (트랜스포머 기반 모델 적용)
  
 * 데이터 소개
-  ![image](https://github.com/user-attachments/assets/f9476674-b64c-4aa0-93b9-d400b62235dc)
+  ![image](https://github.com/user-attachments/assets/4b8e3fb9-b767-46a8-8a1c-b0c204f420ea)
+
 
 
