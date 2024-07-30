@@ -57,7 +57,9 @@
 
      2. 정밀 농업 + 저조도 + 악천후
      
+    
     ![image](https://github.com/user-attachments/assets/eb8e1f41-693f-445c-9eae-3a5350ede4a9)
+
 ### 7. 결론
   * Segformer를 이용한 벼 이상 검출 segmentation 시스템 개발
    * 드론을 통해 벼 이상 영역 검출
