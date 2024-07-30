@@ -12,7 +12,7 @@
 
 
  
-   <img src ="https://github.com/user-attachments/assets/e4049484-b818-4536-a818-df43fa681c27" height =400px width = 600 px>
+   <img src ="https://github.com/user-attachments/assets/e4049484-b818-4536-a818-df43fa681c27" height =400px width = 1000 px>
 
   * 저조도 환경 데이터
 
@@ -22,16 +22,18 @@
 
   * 벼 생식 이상
     
-    <img src="https://github.com/user-attachments/assets/698db541-3b83-4ce4-9ceb-dca1e9350158" height =400px width=600 px>
+    <img src="https://github.com/user-attachments/assets/698db541-3b83-4ce4-9ceb-dca1e9350158" height =400px width=1000 px>
 
 ### 3. Data Augmentation
   * Albumentation 적용
     
-    <img src="https://github.com/user-attachments/assets/c3ff8fa5-e1b4-44d0-b4bf-3669b4253db2" height =400px width=600 px>
+    <img src="https://github.com/user-attachments/assets/c3ff8fa5-e1b4-44d0-b4bf-3669b4253db2" height =400px width=1200 px>
     
 
 ### 4. 이미지 전처리
   * Green,NIR,RedEdge로 merge한 데이터 적용
+
+    
      <img src="https://github.com/user-attachments/assets/5650ee39-a875-4655-be12-bae753b9ed46" height =400px width=600 px>
 
 ### 5. 모델 설명
