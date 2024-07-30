@@ -3,11 +3,11 @@
 
 ## 주제: 벼 이상 검출 AI 시스템
 
-* 서비스 Flow
+### 서비스 Flow
 ![image](https://github.com/user-attachments/assets/612bd50b-5eeb-4d1f-9996-f91e32aebd8e)
 
 
-* 데이터셋
+### 데이터셋
   * 농업 정밀 데이터
  
     ![image](https://github.com/user-attachments/assets/7a1a8908-6dc8-48ef-b919-ce9b70c7d4df)
