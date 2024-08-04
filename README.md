@@ -45,7 +45,6 @@
  <tr>
     <td><img src ="https://github.com/user-attachments/assets/6c56056f-4c25-46a8-8813-d7791e4392ac" width="300" height="500"/>
     </td>
-    <td><img src ="https://github.com/user-attachments/assets/2dacbfeb-6a6e-4c40-ad0f-4de428d8855d"  width="300" height="500"/></td>
     <td><img src ="https://github.com/user-attachments/assets/d8a11c20-c3df-4240-ac36-75eee2d069d9"
 "  width="300" height="500"/></td>
  </tr>
