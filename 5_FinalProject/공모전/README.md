@@ -59,7 +59,7 @@
    
 ### 카페 후보지
 
-<p align="center">  <img src="(https://github.com/user-attachments/assets/ec73b6ff-abba-4ed8-a03f-1a66540b775b)" align="center" width="32%">  <img src="(https://github.com/user-attachments/assets/6ead664d-a281-4434-8d07-d2f861870e2a)" align="center" width="32%">   <figcaption align="center">3개 이미지 띄우기</figcaption></p>
+<p align="center">  <img src="https://github.com/user-attachments/assets/ec73b6ff-abba-4ed8-a03f-1a66540b775b" align="center" width="32%">  <img src="https://github.com/user-attachments/assets/6ead664d-a281-4434-8d07-d2f861870e2a" align="center" width="32%">   <figcaption align="center">3개 이미지 띄우기</figcaption></p>
 
    ![카페후보지1](https://github.com/user-attachments/assets/ec73b6ff-abba-4ed8-a03f-1a66540b775b)
    ![카페후보지2](https://github.com/user-attachments/assets/6ead664d-a281-4434-8d07-d2f861870e2a)
