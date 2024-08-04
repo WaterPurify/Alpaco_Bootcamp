@@ -54,7 +54,7 @@
  - MCLP_최종.ipynb
    - MCLP를 사용하여 합천군 리들을 기준으로 최적의 입지 선정 코드
      
-## LoRA-Stable Diffusion
+### LoRA-Stable Diffusion
  - 참고 코드: https://github.com/cloneofsimo/lora
    
 ### 카페 후보지
