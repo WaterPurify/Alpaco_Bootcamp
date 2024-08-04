@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Alpaco%20Bootcamp!&color=0001fe&fontColor=000000&animation=blinking)
 
-## 알파코 부트캠프 개인 프로젝트 및 팀 프로젝트
+# 알파코 부트캠프 개인 프로젝트 및 팀 프로젝트
 
 ### 1. TextMining
    #### &nbsp;&nbsp;&nbsp;주제: 계절별 호텔 리뷰 패턴 분석
