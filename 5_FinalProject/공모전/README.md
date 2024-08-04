@@ -38,8 +38,6 @@
 - 빈집 감소로 인한 쾌적한 주변 환경 조성
 - 추후 빈집 관련 정책 수립 시 근거 자료로 활용
 
----
-
 ## Code 설명
 
 ### EDA
@@ -73,10 +71,3 @@
    <img src="https://github.com/user-attachments/assets/c8056186-090d-4497-bd43-33449d9b604f" align="center" width="30%"> 
 </p>
 
-
-### 숙박시설 후보지
-
-<p align="center">  
-   <img src="https://github.com/user-attachments/assets/9c3a6db3-c854-41c1-a972-9053e4691aa6" align="center" width="30%"> 
-   <img src="https://github.com/user-attachments/assets/21ebdc04-0ff0-47c0-87af-c621b8cc9eac" align="center" width="30%"> 
-   <img src="https://github.com/user-attachments/assets/c8056186-090d-4497-bd43-33449d9b604f" align="center" width="33%">  </p>
