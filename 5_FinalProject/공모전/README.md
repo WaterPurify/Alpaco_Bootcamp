@@ -63,8 +63,7 @@
 
 ### 숙박시설 후보지
 
-![숙박후보지1](https://github.com/user-attachments/assets/9c3a6db3-c854-41c1-a972-9053e4691aa6)
-
-![숙박후보지2](https://github.com/user-attachments/assets/21ebdc04-0ff0-47c0-87af-c621b8cc9eac)
-
-![image](https://github.com/user-attachments/assets/c8056186-090d-4497-bd43-33449d9b604f)
+<p align="center">  
+   <img src="https://github.com/user-attachments/assets/9c3a6db3-c854-41c1-a972-9053e4691aa6" align="center" width="32%"> 
+   <img src="https://github.com/user-attachments/assets/21ebdc04-0ff0-47c0-87af-c621b8cc9eac" align="center" width="32%"> 
+   <img src="https://github.com/user-attachments/assets/c8056186-090d-4497-bd43-33449d9b604f" align="center" width="32%">  </p>
