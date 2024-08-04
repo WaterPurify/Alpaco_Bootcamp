@@ -59,7 +59,7 @@
    
 ### 카페 후보지
 
-<p align="center">  <img src="https://github.com/user-attachments/assets/ec73b6ff-abba-4ed8-a03f-1a66540b775b" align="center" width="45%">  <img src="https://github.com/user-attachments/assets/6ead664d-a281-4434-8d07-d2f861870e2a" align="center" width="45%"></p>
+<p align="center">  <img src="https://github.com/user-attachments/assets/ec73b6ff-abba-4ed8-a03f-1a66540b775b" align="center" width="40%">  <img src="https://github.com/user-attachments/assets/6ead664d-a281-4434-8d07-d2f861870e2a" align="center" width="40%"></p>
 
 ### 숙박시설 후보지
 
