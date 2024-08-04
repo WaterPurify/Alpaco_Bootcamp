@@ -54,7 +54,6 @@
 
 - 참고 코드: [https://github.com/cloneofsimo/lora](https://github.com/cloneofsimo/lora)
 
----
 
 ## 카페 후보지
 
