@@ -39,7 +39,6 @@
     <td>  <b>빈집활용을 위한 관광지 최적 입지 분석</b>
     </td>
     <td></td>
-    <td></td>
  </tr>
  <tr>
     <td><img src ="https://github.com/user-attachments/assets/6c56056f-4c25-46a8-8813-d7791e4392ac" width="300" height="500"/>
