@@ -43,7 +43,7 @@
  <tr>
     <td><img src ="https://github.com/WaterPurify/Alpaco_Bootcamp/blob/main/5_FinalProject/%EA%B3%B5%EB%AA%A8%EC%A0%84/%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%EA%B3%B5%EB%AA%A8%EC%A0%84.png" width="300" height="500"/>
     </td>
-    <td><img src ="https://github.com/user-attachments/assets/d8a11c20-c3df-4240-ac36-75eee2d069d9"
+    <td><img src ="https://github.com/WaterPurify/Alpaco_Bootcamp/blob/main/5_FinalProject/%EA%B3%B5%EB%AA%A8%EC%A0%84/%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%EA%B3%B5%EB%AA%A8%EC%A0%84.pnghttps://github.com/user-attachments/assets/d8a11c20-c3df-4240-ac36-75eee2d069d9"
 "  width="300" height="500"/></td>
  </tr>
 </table>
