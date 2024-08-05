@@ -41,7 +41,7 @@
     <td></td>
  </tr>
  <tr>
-    <td><img src ="https://github.com/user-attachments/assets/6c56056f-4c25-46a8-8813-d7791e4392ac" width="300" height="500"/>
+    <td><img src ="5_FinalProject/공모전/경상남도공모전.png](https://github.com/WaterPurify/Alpaco_Bootcamp/blob/main/5_FinalProject/%EA%B3%B5%EB%AA%A8%EC%A0%84/%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%EA%B3%B5%EB%AA%A8%EC%A0%84.png" width="300" height="500"/>
     </td>
     <td><img src ="https://github.com/user-attachments/assets/d8a11c20-c3df-4240-ac36-75eee2d069d9"
 "  width="300" height="500"/></td>
