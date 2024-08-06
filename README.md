@@ -49,5 +49,5 @@ width="300" height="500"/></td>
 </table>
 
 <!-- Footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0001fe&height=40&section=footer&text=&fontSize=0" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0001fe&height=40&section=footer&text=&fontSize=0" width="80%"/>
 </div>
