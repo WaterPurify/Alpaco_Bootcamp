@@ -38,7 +38,9 @@
     <tr>
     <td>  <b>🏠 빈집활용을 위한 관광지 최적 입지 분석</b>
     </td>
-    <td></td>
+    <td> <b> 🚗 Lidar 기반 3D 객체 인식 survey</b>
+       
+    </td>
  </tr>
  <tr>
     <td><img src ="https://github.com/WaterPurify/Alpaco_Bootcamp/blob/main/5_FinalProject/%EA%B3%B5%EB%AA%A8%EC%A0%84/%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%EA%B3%B5%EB%AA%A8%EC%A0%84.png" width="300" height="500"/>
