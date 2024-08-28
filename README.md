@@ -37,9 +37,8 @@
  </tr>
     <tr>
     <td>  <b>🏠 빈집활용을 위한 관광지 최적 입지 분석</b>
-    </td>
+   
     <td> <b> 🚗 Lidar 기반 3D 객체 인식 survey</b>
-       
     </td>
  </tr>
  <tr>
