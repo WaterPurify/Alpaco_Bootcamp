@@ -41,10 +41,10 @@
  </tr>
  <tr>
     <td style="text-align: center;">
-        <img src="https://github.com/WaterPurify/Alpaco_Bootcamp/blob/main/5_FinalProject/%EA%B3%B5%EB%AA%A8%EC%A0%84/%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%EA%B3%B5%EB%AA%A8%EC%A0%84.png" width="400" height="600"/>
+        <img src="https://github.com/WaterPurify/Alpaco_Bootcamp/blob/main/5_FinalProject/%EA%B3%B5%EB%AA%A8%EC%A0%84/%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%EA%B3%B5%EB%AA%A8%EC%A0%84.png" width="300" height="500"/>
     </td>
     <td style="text-align: center;">
-        <img src="https://github.com/WaterPurify/Alpaco_Bootcamp/blob/main/5_FinalProject/%EA%B3%B5%EB%AA%A8%EC%A0%84/%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%EA%B3%B5%EB%AA%A8%EC%A0%84.png" width="300" height="500"/>
+        <img src="https://github.com/WaterPurify/Alpaco_Bootcamp/blob/main/5_FinalProject/%EA%B3%B5%EB%AA%A8%EC%A0%84/%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%EA%B3%B5%EB%AA%A8%EC%A0%84.png" width="400" height="600"/>
     </td>
  </tr>
 </table>
