@@ -35,19 +35,16 @@
     <td><b style="font-size:30px">1. 경상남도 빅데이터 분석 공모전</b></td>
     <td><b style="font-size:30px">2. 자율주행 공모전</b></td>
  </tr>
-    <tr>
-    <td>  <b>🏠 빈집활용을 위한 관광지 최적 입지 분석</b>
-   </td>
-    <td> <b> 🚗 DynmVFE 와 Pointpillarscatter를 통해 3D OD 모델 개발 </b>
-    </td>
+ <tr>
+    <td> <b>🏠 빈집활용을 위한 관광지 최적 입지 분석</b></td>
+    <td> <b>🚗 DynmVFE 와 Pointpillarscatter를 통해 3D OD 모델 개발</b></td>
  </tr>
  <tr>
-    <td><img src ="https://github.com/WaterPurify/Alpaco_Bootcamp/blob/main/5_FinalProject/%EA%B3%B5%EB%AA%A8%EC%A0%84/%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%EA%B3%B5%EB%AA%A8%EC%A0%84.png" width="300" height="500"/>
-    </td>
-    <td><img src ="https://github.com/WaterPurify/Alpaco_Bootcamp/blob/main/5_FinalProject/%EA%B3%B5%EB%AA%A8%EC%A0%84/%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%EA%B3%B5%EB%AA%A8%EC%A0%84.png"
-width="300" height="500" align ="center"/></td>
+    <td style="text-align: center;"><img src="https://github.com/WaterPurify/Alpaco_Bootcamp/blob/main/5_FinalProject/%EA%B3%B5%EB%AA%A8%EC%A0%84/%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%EA%B3%B5%EB%AA%A8%EC%A0%84.png" width="300" height="500"/></td>
+    <td style="text-align: center;"><img src="https://github.com/WaterPurify/Alpaco_Bootcamp/blob/main/5_FinalProject/%EA%B3%B5%EB%AA%A8%EC%A0%84/%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%EA%B3%B5%EB%AA%A8%EC%A0%84.png" width="300" height="500"/></td>
  </tr>
 </table>
+
 
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0001fe&height=40&section=footer&text=&fontSize=0" width="83%"/>
