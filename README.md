@@ -38,7 +38,7 @@
     <tr>
     <td>  <b>🏠 빈집활용을 위한 관광지 최적 입지 분석</b>
    </td>
-    <td> <b> 🚗 DynmVFE 와 Pointpillarscatter를 통해 Lidar-기반 3D 객체 인식 모델 개발 </b>
+    <td> <b> 🚗 DynmVFE 와 Pointpillarscatter를 통해 3D OD 모델 개발 </b>
     </td>
  </tr>
  <tr>
