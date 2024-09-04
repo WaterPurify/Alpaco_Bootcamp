@@ -37,7 +37,7 @@
  </tr>
  <tr>
     <td><b>🏠 빈집활용을 위한 관광지 최적 입지 분석</b></td>
-    <td><b>🚗 DynmVFE 와 Pointpillarscatter를 통해 3D OD 모델 개발</b></td>
+    <td><b>🚗 DynmVFE와 PPscatter 적용한 3D OD 모델 개발</b></td>
  </tr>
  <tr>
     <td style="text-align: center;">
